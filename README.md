@@ -73,7 +73,7 @@ We welcome contributions to improve the Supermarket Dashboard! To contribute, pl
 
 ## 📧 Contact
 
-If you have any questions or suggestions, feel free to open an issue or contact us at [your-email@example.com](winnerssabari2002@gmail.com).
+If you have any questions or suggestions, feel free to open an issue or contact us at (winnerssabari2002@gmail.com).
 
 ---
 
